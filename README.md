@@ -6,7 +6,7 @@ described in the **\<changes filename\>.json** and write it to the **\<output fi
 ### Environment
 Jdk version 8 or above
 ### Format of changes file
-Please use the changes.json sample file in the MixtapeDemoTest which has necessary comments as to how add inputs. <br/>
+Please use the changes.json sample file in the MixtapeDemoTest to customize and add inputs. <br/>
 
 ## How to run
 The MixtapeDemoTest has a prebuilt jar MixtapeDemo.jar with a sample \<mixtape filename\>.json file, a \<changes filename\>.json file.Please ensure you have the **\<mixtape filename\>.json, \<changes filename\>.json, \<output filename\>.json** in the folder which has the jar file. The file can be run from the command line or terminal using the following command
