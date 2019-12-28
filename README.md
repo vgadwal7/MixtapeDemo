@@ -24,7 +24,7 @@ The jar can be run as a standalone jar on any cloud environment and scaled up by
 ## Future Enhancements
 A level of performance gain in terms of number of objects being stored on the java heap and processing time can be acheived by further using java parallel streams for smaller operations when processing data from collections and also lazy loading of the objects itself.
 
-Exposing the functionality as a stateleful rest webservice to process multiple change requests.
+Exposing the functionality as a stateful rest webservice to process multiple change requests.
 
 Persisting the mixtape metadata namely user,songs and playlists in a nosql database for multiple change requests in an existing session.Reads are faster for the nosqldb and can be used to process the changes faster giving a performance gain.
 
